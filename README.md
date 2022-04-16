@@ -22,7 +22,7 @@ void main() async {
 
 ## 2nd header
 
-| Syntax | Description |
+| Syntax | Desc |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
